@@ -14,9 +14,7 @@ A.
 
 
 What is IDE?
-A.
-
-
+Ans= IDE means (Integrated Development Environment) is a software application which enables users to more easily write and debug Java programs.
 
 What are the IDEs available in the market to support java?
 A.
@@ -25,8 +23,11 @@ A.
 
 Explain the entire java life cycle.
 what is class?
+a. Class is a blue print of the object.
 What is object?
+a. object is a instance of the class. Where you can call the method by the class name.
 What is the entry point of an application?
+
 Why main is static?
 Which class is the superclass of all classes?
 What is difference between path and classpath variables?
@@ -34,6 +35,11 @@ What is the difference between an Interface and Abstract class?
 Can you make an Object from an Interface and Abstract class ? if not how do you use it ?
 what is Access Specifier?
 What is OOP ? Define each feature of java OOP.
+a. OOP means Object Oriented Programing. OOP have 4 feature those are....
+   #Abstraction,
+   #Encapsulation,
+   #Polymorphism,
+   #Inheritance.
 What is Java Package and which package is imported by default?
 What is API? Name list of API that you have used so far.
 Does java support multiple inheritance, explain why or why not?
