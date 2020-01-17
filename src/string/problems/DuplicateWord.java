@@ -1,7 +1,7 @@
 package string.problems;
 
 
-public class DuplicateWord {
+public class   DuplicateWord {
 
     public static void main(String[] args) {
         /*
