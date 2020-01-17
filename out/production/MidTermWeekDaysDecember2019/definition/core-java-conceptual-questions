@@ -1,41 +1,70 @@
 Please answer the below core-java Questions:
 
 What is programing language?
-A.
-
-
-
+=> A programming language is a formal language, which comprises a set of instructions that produce various kinds of output.
+   Programming languages are used in computer programming to implement algorithms.
 
 What jdk contains or composed of and define each components?
-A.
-
-
-
-
+=>   The Runtime Interpreter.
+     The Compiler.
+     The Applet Viewer.
+     The Debugger.
+     The Class File Disassembler.
+     The Header and Stub File Generator.
+     The Documentation Generator.
+     Applet Demos.
 
 What is IDE?
-Ans= IDE means (Integrated Development Environment) is a software application which enables users to more easily write and debug Java programs.
+==> IDE means (Integrated Development Environment) is a software application which enables users to more easily write and debug Java programs.
 
 What are the IDEs available in the market to support java?
-A.
+==> The popular free IDEs are given below.....
+    NetBeans.
+    Eclipse.
+    IntelliJ IDEA Community Edition.
+    Android Studio.
+    Enide Studio 2014.
+    BlueJ.
+    jEdit.
+    jGRASP.
 
+Explain the entire java life cycle?
+==> Life cycle of a java program tells us what happens right from the point when we type source code in a text editor to the point that source code is converted into machine code (0’s and 1’s).
+    There are three main stages in the life cycle of a java program. They are:
+    Editing the program, Compiling the source code, Executing the byte code
 
-
-Explain the entire java life cycle.
 what is class?
-a. Class is a blue print of the object.
+==> Class is a blue print of the object.
+
 What is object?
-a. object is a instance of the class. Where you can call the method by the class name.
+==> Object is a instance of the class. Where you can call the method by the class name.
+
 What is the entry point of an application?
+==>Application entry points are used to control users' access to different versions of an application that is deployed on a platform.
+They are also used to create an application context to monitor the resource usage for applications and to identify an application being run
 
 Why main is static?
+==>Java program's main method has to be declared static because keyword static allows main to be called without creating an object of the class in which the main method is defined. ...
+   Without having declared main method static , your program will successfully compile but won't execute and report error at run time
+
 Which class is the superclass of all classes?
+==> Object is the super class of all other classes you use, including the ones you implemented.
+    And you'll see the following methods are inherited from Object in every class. java.lang.Object is a super class of any class by default. The root class of the Java class hierarchy
+
 What is difference between path and classpath variables?
+==> Path is an environment variable which is used by the operating system to find the executables.
+   Classpath is an environment variable which is used by the Java compiler to find the path, of classes.ie in J2EE we give the path of jar files. 2).PATH is nothing but setting up an environment for operating system
+
 What is the difference between an Interface and Abstract class?
+==> Interface where we declare the method but can't implement.
+    Abstract is a class where we can declare the variable of the method we declare in interface.
+
 Can you make an Object from an Interface and Abstract class ? if not how do you use it ?
+==>
+
 what is Access Specifier?
 What is OOP ? Define each feature of java OOP.
-a. OOP means Object Oriented Programing. OOP have 4 feature those are....
+==> OOP means Object Oriented Programing. OOP have 4 feature those are....
    #Abstraction,
    #Encapsulation,
    #Polymorphism,

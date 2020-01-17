@@ -27,7 +27,7 @@ public class Anagram {
     }
     public static void main(String[] args) {
 
-        doAnagram("CAT","TAC");
+        doAnagram("CAR","TAC");
         doAnagram("ARMY","MARY");
 
    }
