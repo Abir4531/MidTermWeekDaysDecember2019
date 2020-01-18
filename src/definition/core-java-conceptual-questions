@@ -31,7 +31,7 @@ What are the IDEs available in the market to support java?
 Explain the entire java life cycle?
 => Life cycle of a java program tells us what happens right from the point when we type source code in a text editor to the point that source code is converted into machine code (0’s and 1’s).
     There are three main stages in the life cycle of a java program. They are:
-    Editing the program, Compiling the source code, Executing the byte code
+    Editing the program, Compiling the source code, Executing the byte code.
 
 what is class?
 => Class is a blue print of the object. Core properties include the data types and methods that may be used by the object. All class objects should have the basic class properties
