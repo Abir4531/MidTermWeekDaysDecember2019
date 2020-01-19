@@ -152,6 +152,6 @@ Draw a table with time complexity in which it will summarize all the data struct
 Insert       Delete    Search    Insert    Delete    Search
 Array/       stack  /queue O(1) O(1) O(n) O(1) O(1) O(n)
 Linked        list O(1) O(1) O(n) O(1) O(1) O(n)
-Doubly linked list O(1) O(1) O(n) O(1) O(1) O(n)
+Doubly linked list O(1) O(1) O(n) O(1) O(1 ) O(n)
 Hash table     O(1) O(1) O(1) O(n) O(n) O(n)
 Binary search tree  O(log(n)) O(log(n)) O(log(n)) O(n) O(n) O(n)

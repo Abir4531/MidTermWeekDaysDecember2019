@@ -12,7 +12,7 @@ public class SearchElementOfArray {
             int num;
             Scanner sc=new Scanner(System.in);
             System.out.println("Enter the number of Integer to store in the Array::");
-            System.out.println("<<Please Enter Aleast 2 Integer Numbers>>");
+            System.out.println("Please Enter least 2 Integer Numbers: ");
             num=sc.nextInt();
             System.out.println("Enter the Integers Numbers::");
             int[] array = new int[num];

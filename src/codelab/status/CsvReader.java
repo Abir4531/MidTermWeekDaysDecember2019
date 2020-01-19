@@ -58,8 +58,7 @@ public class CsvReader {
                 System.out.print("You did not take this course seriously-->   ");
                 System.out.println(student.getFirstName() + " " + student.getLastName() + " " + student.getNumberOfExercisesSolved());
             }else if (student.getNumberOfExercisesSolved()<100) {
-                System.out.print("Shame on You !-->                           ");
-                System.out.println(student.getFirstName() + " " + student.getLastName() + " " + student.getNumberOfExercisesSolved());
+                 System.out.println(student.getFirstName() + " " + student.getLastName() + " " + student.getNumberOfExercisesSolved());
             }
         }
 
