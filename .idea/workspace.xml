@@ -3,10 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="b533036d-9a6c-47ac-a051-580b895fa47b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/CollectionView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/CollectionView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/UseArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/problems/DetermineLargestWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/DetermineLargestWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/problems/DuplicateWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/DuplicateWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithm/UnitTestSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithm/UnitTestSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/databases/UnitTestConnectDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/databases/UnitTestConnectDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/UseMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/UseMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/datastructure/UseQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/UseQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/EmployeeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/EmployeeInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/FortuneEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/FortuneEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/design/UnitTestingEmployeeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/design/UnitTestingEmployeeInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/problems/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/problems/UnitTestingMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/problems/UnitTestingMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problemandsolutions/GradeSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemandsolutions/GradeSheet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/string/problems/UnitTestingStringProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string/problems/UnitTestingStringProblem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,13 +75,13 @@
       <recent name="G:\SOFTWARE ENGINEERING\PROJECTS\IdeaProjects\PNT\MidTermWeekDaysDecember2019\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.UseArrayList">
-    <configuration name="CollectionView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.CollectionView" />
+  <component name="RunManager" selected="Application.ConnectToMongoDB">
+    <configuration name="ConnectToMongoDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="databases.ConnectToMongoDB" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.*" />
+          <option name="PATTERN" value="databases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DetermineLargestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.problems.DetermineLargestWord" />
+    <configuration name="ConnectToSqlDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="databases.ConnectToSqlDB" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.problems.*" />
+          <option name="PATTERN" value="databases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.problems.DuplicateWord" />
+    <configuration name="FortuneEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="design.FortuneEmployee" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.problems.*" />
+          <option name="PATTERN" value="design.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.Numbers" />
+    <configuration name="UnitTestConnectDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="databases.UnitTestConnectDB" />
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithm.*" />
+          <option name="PATTERN" value="databases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,26 +128,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.UseArrayList" />
+    <configuration name="UnitTestingEmployeeInfo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MidTermWeekDaysDecember2019" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.*" />
+          <option name="PATTERN" value="design.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="design" />
+      <option name="MAIN_CLASS_NAME" value="design.UnitTestingEmployeeInfo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UseArrayList" />
-        <item itemvalue="Application.CollectionView" />
-        <item itemvalue="Application.Numbers" />
-        <item itemvalue="Application.DetermineLargestWord" />
-        <item itemvalue="Application.DuplicateWord" />
+        <item itemvalue="Application.ConnectToMongoDB" />
+        <item itemvalue="Application.ConnectToSqlDB" />
+        <item itemvalue="Application.UnitTestConnectDB" />
+        <item itemvalue="TestNG.UnitTestingEmployeeInfo" />
+        <item itemvalue="Application.FortuneEmployee" />
       </list>
     </recent_temporary>
   </component>
@@ -192,22 +203,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1579328724631" />
-    <state width="1237" height="245" key="GridCell.Tab.0.bottom" timestamp="1579479345287">
+    <state width="1237" height="119" key="GridCell.Tab.0.bottom" timestamp="1579513908253">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="245" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579479345287" />
-    <state width="1237" height="245" key="GridCell.Tab.0.center" timestamp="1579479345286">
+    <state width="1237" height="119" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579513908253" />
+    <state width="1237" height="119" key="GridCell.Tab.0.center" timestamp="1579513908253">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="245" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579479345286" />
-    <state width="1237" height="245" key="GridCell.Tab.0.left" timestamp="1579479345286">
+    <state width="1237" height="119" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579513908253" />
+    <state width="1237" height="119" key="GridCell.Tab.0.left" timestamp="1579513908253">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="245" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579479345286" />
-    <state width="1237" height="245" key="GridCell.Tab.0.right" timestamp="1579479345287">
+    <state width="1237" height="119" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579513908253" />
+    <state width="1237" height="119" key="GridCell.Tab.0.right" timestamp="1579513908253">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="245" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579479345287" />
+    <state width="1237" height="119" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579513908253" />
     <state width="1237" height="203" key="GridCell.Tab.1.bottom" timestamp="1579430608190">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
