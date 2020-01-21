@@ -17,6 +17,7 @@ public class UseMap {
 		 * Use any databases[MongoDB, Oracle, MySql] to store data and retrieve data.
 		 *
 		 */
+
 		Connection connection = null;
 		Statement statement = null;
 		Map<String, List<String>> list = new HashMap<String, List<String>>();
@@ -38,6 +39,7 @@ public class UseMap {
 		list3.add("China");
 		list3.add("Pakistan");
 		list3.add("India");
+
 
 		list.put("Europe", list1);
 		list.put("America", list2);
@@ -63,15 +65,12 @@ public class UseMap {
 		try {
 			connection = DriverManager.getConnection(url, user, password);
 			statement = connection.createStatement();
-			//String query=" create table UseMap (continent   varchar(20) primary key not null, countries varchar(30));";
 			String query2 = " insert into UseMap (continent,countries) values ('Europe','UK,Belgium,Spain,Italy');";
-
-			statement.execute(query2);
-
 
 		} catch (SQLException ex) {
 			ex.printStackTrace();
 			System.out.println("something wrong with your connection");
+
 		} finally {
 			statement.close();
 			connection.close();

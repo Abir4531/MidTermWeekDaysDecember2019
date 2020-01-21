@@ -4,8 +4,8 @@ public class FortuneEmployee {
 
 	/**
 	 * FortuneEmployee class has a main methods where you will be able to create Object from
-	 * EmployeeInfo class to use fields and attributes.Demonstrate as many methods as possible 
-	 * to use with proper business work flow.Think as a Software Architect, Product Designer and 
+	 * EmployeeInfo class to use fields and attributes.Demonstrate as many methods as possible
+	 * to use with proper business work flow.Think as a Software Architect, Product Designer and
 	 * as a Software Developer.(employee.info.system) package is given as an outline,you need to elaborate
 	 * more to design an application that will meet for fortune 500 Employee Information
 	 * Services.
@@ -17,11 +17,11 @@ public class FortuneEmployee {
 
 		EmployeeInfo employeeInfo = new EmployeeInfo();
 
-		employeeInfo.setEmployeeName("John Doe");
-		employeeInfo.setEmployeeId(12345);
-		employeeInfo.assignDepartment("Human Resources");
-		EmployeeInfo.setCompanyName("Google");
-		employeeInfo.setEmployeeSalary(150000);
+		employeeInfo.setEmployeeName("Abir Hossain");
+		employeeInfo.setEmployeeId(54321);
+		employeeInfo.assignDepartment("QA Tester");
+		EmployeeInfo.setCompanyName("Apple");
+		employeeInfo.setEmployeeSalary(145000);
 
 		System.out.println("Employee Name: " + employeeInfo.employeeName());
 		System.out.println("Employee ID: " + employeeInfo.employeeId());
@@ -39,4 +39,3 @@ public class FortuneEmployee {
 	}
 
 }
-
